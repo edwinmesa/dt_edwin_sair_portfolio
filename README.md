@@ -50,7 +50,7 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
 ![Example2 dashboard image](ARCH_1_Demo_External_Data.png)
 
-#### WSL, for Windows Subsystem for Linux, as the name suggests, increases workflow efficiency and reduces the time to develop locally. I use daily this tool because i have some projects that requieres run on windows, RPA, WebScrappig, etc.
+#### WSL, for Windows Subsystem for Linux, as the name suggests, increases workflow efficiency and reduces the time to develop locally. I use daily this tool because i have some projects that requieres run on windows, ML, RPA, WebScrappig, etc.
 
 ![Example3 dashboard image](ARCH_2_Local.png)
 
