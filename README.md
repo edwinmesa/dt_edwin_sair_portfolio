@@ -32,7 +32,7 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 - Generating information and insights from data sets and identifying trends and patterns.
 - Modeling business processes and identifying opportunities for process improvements​.
 
-## Projects
+## Projects :scroll:
 *In this space you will find the most important projects that edwin sair has developed.*
 
 1. Workflows and Cloud Architectures
@@ -40,7 +40,7 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 3. Personal Projects
 
 
-## 1. Workflows and Cloud Architectures
+## 1. Workflows and Cloud Architectures :cloud:
 
 #### A data lake is an increasingly popular way to store and analyze data because it allows businesses to store all of their data, structured and unstructured, in a centralized repository. The next image show the high level solution, that i am using.
 
@@ -58,9 +58,9 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
 ![Example4 dashboard image](ARCH_3_Serverless_Deploy_Functions.png)
 
-## 2. Data Science|Python Projects|Analytics
+## 2. Data Science|Python Projects|Analytics 	:bookmark_tabs: :chart_with_upwards_trend:
 
-*Before of deep dive know the concepts and tools of data science is very import*
+*Before of deep dive know the concepts and tools of data science is very import.*
 
 #### Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientist/engineer to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results also: 
 
