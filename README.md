@@ -36,9 +36,8 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 *In this space you will find the most important projects that edwin sair has developed.*
 
 1. Workflows and Cloud Architectures
-2. Data Visualization
-3. Code 
-4. Personal Projects
+2. Python Projects|Data Science|Analytics
+3. Personal Projects
 
 
 ## 1. Workflows and Cloud Architectures
@@ -59,4 +58,26 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
 ![Example4 dashboard image](ARCH_3_Serverless_Deploy_Functions.png)
 
-## 2. Data Visualization
+## 2. Python Projects|Data Science|Analytics
+
+#### Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientist/engineer to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results also: 
+
+- Data science tools help businesses to speed up data science workflows by integrating data from various sources and implementing multiple algorithms and techniques on the data.
+- Data science tools use computer science, statistics, predictive analytics, etc. to dig deeper into complex data by acquiring, manipulating, and analyzing business data to derive valuable insights.
+- Businesses can also leverage data science tools for faster decision-making as these tools enable them to monitor data in real time and offer them additional flexibility.
+
+Common tools used in my daily activities:
+- Jupyter Notebook
+- Pandas, Numpy, Pandas Profiling
+- Apache Spark(PySpark), Hadoop
+- Matplotlib, Seaborn, Ploty
+- Scrappy, Request, Beautifulsoup, Selenium
+- Sklearn, Statsmodels
+- OpenCV, Pytesseract, KerasOCR, Yolo.
+- TensorFlow, PyTorch.
+- Spacy, NLTK
+- RPA Framework.
+- SQLAlchemy, MySQL Connector
+- Airflow, Step Functions
+- SQL Server, PL SQL, MongoDB
+- Qlik Sense, Tableau, PowerBI
