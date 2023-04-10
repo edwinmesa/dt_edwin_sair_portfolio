@@ -1,7 +1,7 @@
 # Data Engineering | Python Developer | Business Intelligence :rocket: | :bar_chart:
 
 ## About Me :raising_hand:
-### Edwin Sair have solid experience of CI/CD in the life cycle of analytics to build applications and innovate,  support teams to drive growth and maintain a competitive edge. He is  creative, multifunctional, proficient, dynamic, that provides cutting-edge solutions in the company. He have the capacity for understanding the strategies, visualizing and designing data solutions for different business areas. He enjoy working with tools for data science, learning and researching new technologies
+### Edwin Sair is a System Engineer that have solid experience of CI/CD in the life cycle of analytics to build applications and innovate,  support teams to drive growth and maintain a competitive edge. He is  creative, multifunctional, proficient, dynamic, that provides cutting-edge solutions in the company. He have the capacity for understanding the strategies, visualizing and designing data solutions for different business areas. He enjoy working with tools for data science, learning and researching new technologies
 
 ## Key Responsabilities :dart:
 - Building, delivering and maintaining data pipelines to support data analytics and Machine Learning work across Credit, Finance, Supply Chain and Commercial.
@@ -11,7 +11,7 @@
 - Use Python to Develop Projects for Classification Customer, Clustering, Forecasting, RPA, RFM,  CVLT,  ML, Etc.
 - Strong experience in database programming languages such as SQL, PL/SQL.
 - Apply best practices and tooling, clean code, testing,documentation, CI/CD, Git, etc.
-- Automate repetitive tasks related with data and bussines cases.
+- Automate critical workflows, tasks repetitives related with data and bussines cases using python
 - Creating dashboards and reports in Qlik Sense and Tableau
 Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
@@ -31,7 +31,7 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 - Generating information and insights from data sets and identifying trends and patterns.
 - Modeling business processes and identifying opportunities for process improvements​.
 
-## Overview
+## 
 
 ## Data Arch
 ![Example1 dashboard image](ARCH_DMS_Aurora.png)
