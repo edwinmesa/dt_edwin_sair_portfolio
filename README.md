@@ -32,7 +32,14 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 - Generating information and insights from data sets and identifying trends and patterns.
 - Modeling business processes and identifying opportunities for process improvements​.
 
-## 
+## Projects
+*In this space you will find the most important projects that edwin sair has developed*
+
+1. Archictectures in AWS
+2. Data Visualization
+3. Code 
+4. Personal Projects
+
 
 ## Data Arch
 ![Example1 dashboard image](ARCH_DMS_Aurora.png)
