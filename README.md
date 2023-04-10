@@ -90,29 +90,36 @@ Common tools used in my daily activities:
 
 ![Example4 dashboard image](webScraping.png)
 
-#### Piece of Code
-
+#### Piece of Code For Extraction
 ``` cpp
-        initial_XPATH = "//div[contains(@class,'vtex-button__label flex items-center justify-center h-100 ph5')]"
-        # define the max clicks for page for default 30
-        max_click_SHOW_MORE = 35
-        # count the number of clicks
-        count = 1
-        # This loop search the button load more and apply the click until the end of page
-        while count <= max_click_SHOW_MORE:
-            try:
-                WebDriverWait(driver, 30).until(
-                    EC.visibility_of_element_located((By.XPATH, initial_XPATH)))
-                time.sleep(5)    
-                WebDriverWait(driver, 20).until(
-                    EC.element_to_be_clickable((By.XPATH, initial_XPATH))).click()
-                count += 1
-                time.sleep(2)
-                # Bar progress -> comment
-                for i in track(range(4), description=f"[red]Exploring  Web iter {count - 1}.........."):
-                    time.sleep(1)
 
-            except TimeoutException:
-                break
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.action_chains import ActionChains
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.support import expected_conditions as EC
+
+initial_XPATH = "//div[contains(@class,'vtex-button__label flex items-center justify-center h-100 ph5')]"
+# define the max clicks for page for default 30
+max_click_SHOW_MORE = 35
+# count the number of clicks
+count = 1
+# This loop search the button load more and apply the click until the end of page
+while count <= max_click_SHOW_MORE:
+    try:
+        WebDriverWait(driver, 30).until(
+            EC.visibility_of_element_located((By.XPATH, initial_XPATH)))
+        time.sleep(5)    
+        WebDriverWait(driver, 20).until(
+            EC.element_to_be_clickable((By.XPATH, initial_XPATH))).click()
+        count += 1
+        time.sleep(2)
+        # Bar progress -> comment
+        for i in track(range(4), description=f"[red]Exploring  Web iter {count - 1}.........."):
+            time.sleep(1)
+
+    except TimeoutException:
+        break
 ```
 
