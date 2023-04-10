@@ -51,8 +51,12 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
 ![Example2 dashboard image](ARCH_1_Demo_External_Data.png)
 
+#### WSL, for Windows Subsystem for Linux, as the name suggests, increases workflow efficiency and reduces the time to develop locally. I use daily this tool because i have some projects that requieres run on windows, RPA, WebScrappig, etc.
 
 ![Example3 dashboard image](ARCH_2_Local.png)
+
+#### AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS). Users of AWS Lambda create functions, self-contained applications written in one of the supported languages and runtimes, and upload them to AWS Lambda, which executes those functions in an efficient and flexible manner.
+
 ![Example4 dashboard image](ARCH_3_Serverless_Deploy_Functions.png)
 
-### Data Visualization
+## 2. Data Visualization
