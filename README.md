@@ -86,6 +86,8 @@ Common tools used in my daily activities:
 - Github
 
 ### Scrapping Projects :earth_americas:
-#### Web scraping is a way of collecting data from a website by means of a script that reads the content from the pages on the website and then stores the data in a database or spreadsheet. This is a example of some supermarket 
+#### Web scraping is a way of collecting data from a website by means of a script that reads the content from the pages on the website and then stores the data in a database or spreadsheet. This is a example of some supermarkets in colombia with his brands, skus and categories and share.
 
 ![Example4 dashboard image](webScraping.png)
+
+#### Codigo usado
