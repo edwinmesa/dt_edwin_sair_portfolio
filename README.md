@@ -15,6 +15,13 @@
 Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
 ## Skills :bulb:
+- Working with Teams.
+- Strong communication skills.
+- Effective stakeholder engagement.
+- Critical Thinking.
+- Problem solving.
+- Decision Making
+- Programming, Data Management, Data Modeling, Data Wrangling, Data Visualization, Statistics Analysis, Big Data, Machine Learning.
 
 
 
