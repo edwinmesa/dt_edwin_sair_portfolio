@@ -11,6 +11,7 @@
 - Use Python to Develop Projects for Classification Customer, Clustering, Forecasting, RPA, RFM,  CVLT,  ML, Etc.
 - Strong experience in database programming languages such as SQL, PL/SQL.
 - Apply best practices and tooling, clean code, testing,documentation, CI/CD, Git, etc.
+- Automate repetitive tasks related with data and bussines cases.
 - Creating dashboards and reports in Qlik Sense and Tableau
 Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
@@ -23,7 +24,12 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 - Decision Making
 - Programming, Data Management, Data Modeling, Data Wrangling, Data Visualization, Statistics Analysis, Big Data, Machine Learning.
 
-
+## Professional Capabilities :bookmark_tabs:
+- Solid planning, priority setting, and project management skills with experience managing multiple projects concurrently.
+- Identify relevant data sources for business needs.
+- Organizing data into usable formats.
+- Generating information and insights from data sets and identifying trends and patterns.
+- Modeling business processes and identifying opportunities for process improvements​.
 
 ## Overview
 
