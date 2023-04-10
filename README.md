@@ -69,17 +69,20 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 - Businesses can also leverage data science tools for faster decision-making as these tools enable them to monitor data in real time and offer them additional flexibility.
 
 Common tools used in my daily activities:
-- Jupyter Notebook
-- Pandas, Numpy, Pandas Profiling
-- Apache Spark(PySpark), Hadoop
-- Matplotlib, Seaborn, Ploty
-- Scrappy, Request, Beautifulsoup, Selenium
-- Sklearn, Statsmodels
+- Jupyter Notebook.
+- Pandas, Numpy, Pandas Profiling.
+- Apache Spark(PySpark), Hadoop.
+- Matplotlib, Seaborn, Ploty.
+- Scrappy, Request, Beautifulsoup, Selenium.
+- Sklearn, Statsmodels.
 - OpenCV, Pytesseract, KerasOCR, Yolo.
 - TensorFlow, PyTorch.
-- Spacy, NLTK
+- Spacy, NLTK.
 - RPA Framework.
-- SQLAlchemy, MySQL Connector
-- Airflow, Step Functions
-- SQL Server, PL SQL, MongoDB
-- Qlik Sense, Tableau, PowerBI
+- SQLAlchemy, MySQL Connector.
+- Airflow, Step Functions.
+- SQL Server, PL SQL, MongoDB.
+- Qlik Sense, Tableau, PowerBI.
+- Github
+
+### Scrapping Projects :earth_americas:
