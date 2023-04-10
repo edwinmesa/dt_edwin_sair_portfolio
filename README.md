@@ -33,16 +33,24 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 - Modeling business processes and identifying opportunities for process improvements​.
 
 ## Projects
-*In this space you will find the most important projects that edwin sair has developed*
+*In this space you will find the most important projects that edwin sair has developed.*
 
-1. Archictectures in AWS
+1. Workflows and Cloud Architectures
 2. Data Visualization
 3. Code 
 4. Personal Projects
 
 
-## Data Arch
+## 1. Workflows and Cloud Architectures
+
+### A data lake is an increasingly popular way to store and analyze data because it allows businesses to store all of their data, structured and unstructured, in a centralized repository. The next image show the high level solution, that i am using
+
 ![Example1 dashboard image](ARCH_DMS_Aurora.png)
+
+
+
+
+
 ![Example2 dashboard image](ARCH_1_Demo_External_Data.png)
 ![Example3 dashboard image](ARCH_2_Local.png)
 ![Example4 dashboard image](ARCH_3_Serverless_Deploy_Functions.png)
