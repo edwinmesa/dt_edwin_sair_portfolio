@@ -1,10 +1,11 @@
 # Data Engineering | Python Developer | Business Intelligence :rocket: | :bar_chart:
 
 ## About Me :raising_hand:
-### Edwin Sair is a System Engineer that have solid experience of CI/CD in the life cycle of analytics to build applications and innovate,  support teams to drive growth and maintain a competitive edge. He is  creative, multifunctional, proficient, dynamic, that provides cutting-edge solutions in the company. He have the capacity for understanding the strategies, visualizing and designing data solutions for different business areas. He enjoy working with tools for data science, learning and researching new technologies
+### Edwin Sair is a System Engineer that have solid experience of CI/CD in the life cycle of analytics to build applications and innovate,  support teams to drive growth and make contributions across strategy and operations. He is  creative, multifunctional, proficient, dynamic, that provides cutting-edge solutions in the company. He have the capacity for understanding the strategies, visualizing and designing data solutions for different business areas. He enjoy working with tools for data science, learning and researching new technologies
 
 ## Key Responsabilities :dart:
 - Building, delivering and maintaining data pipelines to support data analytics and Machine Learning work across Credit, Finance, Supply Chain and Commercial.
+- Using multiple tools and methods to find trends and correlations by mining data, and couple that with intuition and light-weight tests to prioritize how to drive forward on complicated problems.
 - Helping users with strategize, understand, visualize and measure data-driven initiatives causing high impact in visualizations to power leadership decisions.
 - Developing impacting analytic solutions using data to influence, problem solving, insights for business and operations teams.
 - Working with ELT/ETL tools such Python Libraries, Spark, Airflow, SQL-NoSQL, AWS Tools(Data Lake), Qlik Sense.
