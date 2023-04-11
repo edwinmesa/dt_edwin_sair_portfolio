@@ -86,12 +86,12 @@ Common tools used in my daily activities: :sparkles:
 - Qlik Sense, Tableau, PowerBI.
 - Github
 
-### Scrapping Projects :earth_americas:
+### Scrapping Projects :space_invader:
 #### Web scraping is a way of collecting data from a website by means of a script that reads the content from the pages on the website and then stores the data in a database or spreadsheet. This is a example of some supermarkets in colombia with his brands, skus and categories and share.
 
 ![Example4 dashboard image](webScraping.png)
 
-#### :round_pushpin: Piece of Code For Extraction :round_pushpin:
+#### :pushpin: Piece of Code For Extraction :pushpin:
 ``` python
 
 from selenium.webdriver.support.ui import WebDriverWait
