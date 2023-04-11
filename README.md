@@ -12,9 +12,9 @@
 - Use Python to Develop Projects for Classification Customer, Clustering, Forecasting, RPA, RFM,  CVLT,  ML, Etc.
 - Strong experience in database programming languages such as SQL, PL/SQL.
 - Apply best practices and tooling, clean code, testing,documentation, CI/CD, Git, etc.
-- Automate critical workflows, tasks repetitives related with data and bussines cases using python
+- Automate critical workflows, tasks recurring related with data and business cases using python
 - Creating dashboards and reports in Qlik Sense and Tableau
-Develop in Cloud Computing Ecosystems as AWS and machine locals.
+- Develop in Cloud Computing Ecosystems as AWS and machine locals.
 
 ## Skills :bulb:
 - Working with Teams.
@@ -31,6 +31,7 @@ Develop in Cloud Computing Ecosystems as AWS and machine locals.
 - Organizing data into usable formats.
 - Generating information and insights from data sets and identifying trends and patterns.
 - Modeling business processes and identifying opportunities for process improvements​.
+- Outstanding analytical and problem-solving abilities.
 
 ## Projects :scroll:
 *In this space you will find the most important projects that edwin sair has developed.*
