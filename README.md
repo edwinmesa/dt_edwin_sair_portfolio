@@ -69,14 +69,14 @@
 - Data science tools use computer science, statistics, predictive analytics, etc. to dig deeper into complex data by acquiring, manipulating, and analyzing business data to derive valuable insights.
 - Businesses can also leverage data science tools for faster decision-making as these tools enable them to monitor data in real time and offer them additional flexibility.
 
-Common tools used in my daily activities:
+Common tools used in my daily activities: :sparkles:
 - Jupyter Notebook.
 - Pandas, Numpy, Pandas Profiling.
 - Apache Spark(PySpark), Hadoop.
 - Matplotlib, Seaborn, Ploty.
 - Scrappy, Request, Beautifulsoup, Selenium.
 - Sklearn, Statsmodels.
-- OpenCV, Pytesseract, KerasOCR, Yolo.
+- OpenCV, Pytesseract, KerasOCR, Yolo v5.
 - TensorFlow, PyTorch.
 - Spacy, NLTK.
 - RPA Framework.
@@ -91,7 +91,7 @@ Common tools used in my daily activities:
 
 ![Example4 dashboard image](webScraping.png)
 
-#### Piece of Code For Extraction
+#### Piece of Code For Extraction :fireworks:
 ``` python
 
 from selenium.webdriver.support.ui import WebDriverWait
