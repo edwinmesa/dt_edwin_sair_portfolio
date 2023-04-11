@@ -91,7 +91,7 @@ Common tools used in my daily activities: :sparkles:
 
 ![Example4 dashboard image](webScraping.png)
 
-#### Piece of Code For Extraction :fireworks:
+#### :round_pushpin: Piece of Code For Extraction :round_pushpin:
 ``` python
 
 from selenium.webdriver.support.ui import WebDriverWait
